@@ -1,25 +1,18 @@
-# README
+# Ruby on rails Development environment
+  
+  
+## Create development environment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please run the rails-compose.sh script.
+  
+  
+## Initialization of development environment
 
-Things you may want to cover:
+Please run the rails-rm.sh script.
+  
+  
+## Delete all docker container & images
 
-* Ruby version
+Please run the docker-rm.sh script.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-postgresql-compose
+**Delete all docker environments. Please do not use it when other environment exists.**
