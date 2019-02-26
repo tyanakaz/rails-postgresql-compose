@@ -1,6 +1,7 @@
 #!/bin/sh
 
 touch Gemfile.lock
+touch .env
 
 # Full stack
 # docker-compose run api rails new . --database=mysql
